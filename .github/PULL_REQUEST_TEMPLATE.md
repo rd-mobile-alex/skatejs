@@ -2,26 +2,10 @@
 - [ ] The commit message follows [our guidelines](https://github.com/skatej/skatej/blob/master/docs/CONTRIBUTING.md#commit)
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
+- [ ] Updated TypeScript definitions, if applicable
+- [ ] Update docs/migrating.md for breaking changes
 
-
-**What kind of change does this PR introduce?** (check one with "x")
-```
-[ ] Bugfix
-[ ] Feature
-[ ] Code style update (formatting, local variables)
-[ ] Refactoring (no functional changes, no api changes)
-[ ] Build related changes
-[ ] CI related changes
-[ ] Other... Please describe:
-```
-
-**What is the current behavior?** (You can also link to an open issue here)
-
-
-
-**What is the new behavior?**
-
-
+**Link to an open issue here**
 
 **Does this PR introduce a breaking change?** (check one with "x")
 ```
