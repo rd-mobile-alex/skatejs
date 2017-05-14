@@ -31,7 +31,6 @@
     "babel-eslint": "7.2.1",
     "bore": "1.1.0",
     "commitizen": "2.9.6",
-    "conventional-changelog-lint": "1.1.8",
     "cz-conventional-changelog": "2.0.0",
     "gitbook-cli": "2.3.0",
     "husky": "0.13.3",
@@ -42,7 +41,8 @@
     "semantic-release": "6.3.2",
     "semistandard": "10.0.0",
     "typescript": "2.2.2",
-    "typescript-formatter": "5.1.2"
+    "typescript-formatter": "5.1.2",
+    "validate-commit-msg": "2.12.1"
   },
   "peerDependencies": {
     "preact": "*"
@@ -67,7 +67,7 @@
     "style:js:fix": "semistandard --fix",
     "verify": "npm run style && npm test",
     "commit": "git-cz",
-    "commitmsg": "conventional-changelog-lint --e",
+    "commitmsg": "validate-commit-msg",
     "prepush": "npm run verify"
   },
   "config": {

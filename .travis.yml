@@ -10,7 +10,6 @@ install:
   - npm install -g yarn
   - yarn install
 script:
-  - yarn conventional-changelog-lint -- --from=HEAD --to=origin/$TRAVIS_BRANCH
   - npm run prepublish
   - npm run test:ci
 after_success:
