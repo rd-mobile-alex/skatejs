@@ -17,7 +17,7 @@ Yes? you may continue champion
 
 **Minimal reproduction of the problem with instructions**
 
-(you can use [Codepen skate template](http://codepen.io/Hotell/pen/apqXYb) as a starting point)
+(you can use [Codepen skate template](https://codepen.io/Hotell/pen/RVJamm) as a starting point)
 <!--
 If the current behavior is a bug or you can illustrate your feature request better with an example,
 please provide the *STEPS TO REPRODUCE* and if possible a *MINIMAL DEMO* of the problem via
